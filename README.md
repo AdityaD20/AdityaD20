@@ -46,3 +46,8 @@
 </a> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
   <img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" alt="Netlify" width="40" height="40"/>
 </a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityad20&show_icons=true&locale=en&layout=compact" alt="adityad20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityad20&show_icons=true&locale=en" alt="adityad20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityad20&" alt="adityad20" /></p>
